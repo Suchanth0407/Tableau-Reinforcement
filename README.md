@@ -23,7 +23,12 @@ Questions KPI:
 
 4. Calculate the categorize age and count the age under the teamworkskills and gender?
 
+Key Insights and Business Analysis:
 
-Dashboard and Storytelling Overview:
+Targeted Support for Low-Performing Departments: Provide additional support and resources to departments with lower average performance ratings to enhance productivity.
 
-Dashboard and StoryTelling:[Dashboard]("C:\Users\ADMIN\OneDrive\Documents\Employee Performance Analysis Dashboard and Storytelling")
+Attendance Improvement Strategies: Implement strategies to improve attendance rates, such as flexible work schedules or attendance incentives, to boost overall performance.
+
+Effective Overtime Management: Develop and enforce policies to manage overtime effectively, ensuring that it contributes positively to employee performance without causing burnout.
+
+

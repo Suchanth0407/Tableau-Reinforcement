@@ -12,3 +12,18 @@ By analyzing performance ratings with factors like teamwork and communication sk
 Dataset Overview:
 
 Employee Performance Analysis:[Dataset](https://1drv.ms/x/c/4f5f1aa11f6d67e4/EfZr5QAQ9mhGju-nQ6hM7AQBO8UxTLbxjmLMpbk3c22hyA?e=z1WF6L)
+
+Questions KPI:
+
+1.Calculate the total average of salary under the various department?
+
+2.Calculate the average attendance by the hiring dates using trend over analysis in line chart?
+
+3.Calculate the performance rating over by the communication skills using pie chart?
+
+4. Calculate the categorize age and count the age under the teamworkskills and gender?
+
+
+Dashboard and Storytelling Overview:
+
+Dashboard and StoryTelling:[Dashboard]("C:\Users\ADMIN\OneDrive\Documents\Employee Performance Analysis Dashboard and Storytelling")
